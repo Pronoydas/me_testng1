@@ -9,4 +9,6 @@ public class CartPage {
 	public void prdRetainsInCart() {
 		System.out.println("Product present in cart");
 	}
+
+
 }
